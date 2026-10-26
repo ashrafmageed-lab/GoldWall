@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">خزنة الذهب</string>
+    <string name="app_full_name">خزنة الذهب - Gold Vault Tracker</string>
+    <string name="dashboard_title">لوحة التحكم</string>
+    <string name="bullion_title">سبائك الذهب</string>
+    <string name="jewelry_title">المشغولات الذهبية</string>
+    <string name="history_title">سجل التقييمات</string>
+    <string name="transactions_title">سجل العمليات</string>
+    <string name="prices_title">إدارة الأسعار</string>
+    <string name="settings_title">الإعدادات والهدف</string>
+    <string name="backup_title">النسخ الاحتياطي</string>
+    <string name="about_title">عن التطبيق</string>
+</resources>

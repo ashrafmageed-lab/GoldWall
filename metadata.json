@@ -1,0 +1,6 @@
+{
+  "name": "خزنة الذهب",
+  "description": "تطبيق احترافي لإدارة ومتابعة محفظة الذهب في مصر وحساب قيمة التصفية لدى الصائغ بدقة عالية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
